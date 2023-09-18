@@ -59,7 +59,7 @@ N кустов.
 
 import random
 
-kolichestvo = 10
+kolichestvo = int(input("Введите количество ягодных кустов: "))
 kusty = []
 
 for i in range(kolichestvo):
